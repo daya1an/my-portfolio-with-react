@@ -6,7 +6,7 @@ import {BrowserRouter} from "react-router-dom";
 function App() {
    return (
       <div>
-         <BrowserRouter>
+         <BrowserRouter basename="/my-portfolio-with-react">
             <BaseLayout/>
          </BrowserRouter>
       </div>
