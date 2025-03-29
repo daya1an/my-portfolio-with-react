@@ -9,7 +9,7 @@ import mock5 from "../img/mock5.png"
 how to make this template work best for you! */
 
 // export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
-export let colors =["rgb(255, 165, 0)", "rgb(0, 191, 255)"];
+export let colors =["rgb(0, 128, 255)", "rgb(0, 128, 255)"];
 
 /*
 I highly recommend using a gradient generator like https://gradientgenerator.paytonpierce.dev/ to generate a pair of colors that you like.
@@ -43,7 +43,7 @@ export const info = {
         },
         {
             emoji: '📍',
-            text: 'Tamil Nadu, India'
+            text: 'Trichy, Tamil Nadu, India'
         },
         {
             emoji: "💼",
@@ -56,29 +56,19 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://facebook.com",
-            icon: 'fa fa-facebook',
-            label: 'facebook'
-        },
-        {
-            link: "https://instagram.com",
+            link: "https://www.instagram.com/d.a.y.a.l.a.n/profilecard/?igsh=bWNvaHpocWsydGw3",
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
         {
-            link: "https://github.com",
+            link: "https://github.com/daya1an",
             icon: "fa fa-github",
             label: 'github'
         },
         {
-            link: "https://linkedin.com",
+            link: "www.linkedin.com/in/dayalands",
             icon: "fa fa-linkedin",
             label: 'linkedin'
-        },
-        {
-            link: "https://twitter.com",
-            icon: "fa fa-twitter",
-            label: 'twitter'
         }
 // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
 // Just change the links so that they lead to your social profiles.
